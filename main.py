@@ -67,5 +67,5 @@ def edit():
             flash(f"your image has been processed and is available in <a href='{filename1}'> HERE</a>")
 
     return render_template("index.html")
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
