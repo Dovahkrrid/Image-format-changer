@@ -1,4 +1,4 @@
 flask==3.0.2
-opencv-python=4.9.0.80
-werkzeug=3.0.2
+opencv-python==4.9.0.80
+werkzeug==3.0.2
 Gunicorn
